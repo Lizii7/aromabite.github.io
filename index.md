@@ -8,7 +8,7 @@ nav_order: 0
 
 # Welcome to **AromaBite**
 
-**AromaBite** test
+**AromaBite** test2
 
 ## Key Features:
 - **Non-Electrical Design**: Fully edible and requires no electronics for scent release.
